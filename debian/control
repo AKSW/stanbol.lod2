@@ -1,0 +1,27 @@
+Source: stanbol
+Section: web
+Priority: extra
+Maintainer: Sebastian Tramp <tramp@informatik.uni-leipzig.de>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.2
+Homepage: http://incubator.apache.org/stanbol/
+Vcs-Svn: http://svn.apache.org/repos/asf/incubator/stanbol/trunk/
+Vcs-Browser: http://svn.apache.org/repos/asf/incubator/stanbol/trunk/
+
+Package: stanbol
+Architecture: all
+Depends: tomcat6, openjdk-6-jre | sun-java6-jre, ${misc:Depends}
+Description: An open source modular software stack and reusable set of components for semantic content management.
+ Apache Stanbol (currently in incubation) is an open source modular software
+ stack and reusable set of components for semantic content management.
+ .
+ Apache Stanbol is part of the IKS project.
+ .
+ Apache Stanbol is an effort undergoing incubation at The Apache Software Foundation (ASF), 
+ sponsored by the Incubator PMC. Incubation is required of all newly accepted projects 
+ until a further review indicates that the infrastructure, communications, and decision 
+ making process have stabilized in a manner consistent with other successful ASF projects.
+ While incubation status is not necessarily a reflection of the completeness or stability 
+ of the code, it does indicate that the project has yet to be fully endorsed by the ASF.
+
+

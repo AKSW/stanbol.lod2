@@ -1,0 +1,10 @@
+#!/bin/sh -e
+# postinst script for stanbol
+#
+# see: dh_installdeb(1)
+
+### RIGHTS
+
+chown tomcat6:tomcat6 /var/lib/tomcat6/stanbol
+
+#DEBHELPER#

@@ -1,0 +1,73 @@
+This work was packaged for Debian by:
+
+    Sebastian Tramp <tramp@informatik.uni-leipzig.de> on Tue, 01 Feb 2011 15:37:27 +0100
+
+It was downloaded from:
+
+    <http://svn.apache.org/repos/asf/incubator/stanbol/trunk/>
+
+Upstream Author(s):
+
+    Alessandro Adamou
+    Andrea Nuzzolese
+    Andreas Filler
+    Andreas Gruber
+    Andreas Kuckartz
+    Ard Schrijvers
+    Benjamin Nagel
+    Bertrand Delacretaz
+    Cihan Cimen
+    Concetto Bonafede
+    Enrico Daga
+    Fabian Christ
+    Florent André
+    Henri Bergius
+    Isabel Drost
+    Jean-Michel Pittet
+    Joerg Steffen
+    Olivier Grisel
+    Ozgur Kilic
+    Reto Bachmann-Gmür
+    Ross Gardler
+    Rupert Westenthaler
+    Stefane Fermigier
+    Suat Gonul
+    Szaby Grünwald
+    Ted Dunning
+    Tommaso Teofili
+    Valentina Presutti
+    Walter Kasper
+    Wernher Behrendt
+    Wolfgang Maass
+
+Copyright:
+
+    <Copyright (C) 2010-2012 Apache Software Foundation>
+
+License:
+
+   Licensed to the Apache Software Foundation (ASF) under one or more
+   contributor license agreements.  See the NOTICE file distributed with
+   this work for additional information regarding copyright ownership.
+   The ASF licenses this file to You under the Apache License, Version 2.0
+   (the "License"); you may not use this file except in compliance with
+   the License.  You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+On Debian systems, the complete text of the ASF License
+can be found in "/usr/share/common-licenses/Apache-2.0".
+
+The Debian packaging is:
+
+    Copyright (C) 2012 Sebastian Tramp <tramp@informatik.uni-leipzig.de>
+
+you can redistribute it and/or modify it under the terms of the GNU General
+Public License as published by the Free Software Foundation; either version
+2 of the License, or (at your option) any later version.

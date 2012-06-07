@@ -1,0 +1,6 @@
+stanbol (0.10.0-1347581) lod2; urgency=low
+
+  * Initial release.
+  * war produced by Rupert Westenthaler
+
+ -- Sebastian Tramp <tramp@informatik.uni-leipzig.de>  Thu, 07 Jun 2012 14:29:40 +0200
